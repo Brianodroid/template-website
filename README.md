@@ -1,6 +1,6 @@
 # Instructions for using this template with github pages
 
-1. Download this repository
+1. Download this repository.
 2. Open a terminal in the downloaded folder and enter the command `npm install` (You must have [npm](https://nodejs.org/en/download) installed on your device)
 3. Run `npm start` to start the server and view your website on [http://localhost:3000](http://localhost:3000)
 4. Change about me in `src/Components/Main/Main.js`
